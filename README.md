@@ -26,3 +26,6 @@ Instructions
 
        
 The 'mvn package' step also runs the various tests.
+
+8/20/16 worked well.  Reads from the test page: http://hiring-tests.s3-website-eu-west-1.amazonaws.com/2015_Developer_Scrape/5_products.html
+
